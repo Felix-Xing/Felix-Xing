@@ -5,26 +5,26 @@
 
      
 
-              cccccccc
+              c c c c c                                                c c c c c                p p p p p p              y            y
 
-             c
+             c                                                        c                         p            p             y         y
 
-            c
+            c                                                        c                          p             p             y       y
 
-           c                   +               +
+           c                   +               +                    c                           p            p                y   y
 
-          c                    +               +
+          c                    +               +                   c                            p p p p p p                     y          
 
-          c              + + + + + + +   + + + + + + +
+          c              + + + + + + +   + + + + + + +     &       c                    &       p                               y
 
-          c                    +               +
+          c                    +               +                   c                            p                               y
+                                
+           c                   +               +                    c                           p                               y
+  
+            c                                                        c                          p                               y
 
-           c                   +               +
+             c                                                        c                         p                               y
 
-            c
-
-             c
-
-              ccccccc
+              c c c c c                                                 c c c c c               p                               y 
               
 
