@@ -4,15 +4,25 @@
 - Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
 `     
-       cccccccc\n
-      c\n
-     c\n
-    c                   +               +
-   c                    +               +
-   c              +++++++++++++   +++++++++++++
-   c                    +               +
-    c                   +               +
-     c
+       cccccccc
+       
       c
+      
+     c
+     
+    c                   +               +
+   
+   c                    +               +
+   
+   c              +++++++++++++   +++++++++++++
+   
+   c                    +               +
+    
+    c                   +               +
+     
+     c
+      
+      c
+       
        ccccccc
 `
