@@ -5,26 +5,26 @@
 
      
 
-              c c c c c                                                c c c c c                p p p p p p              y            y
+           c c c c c                                                c c c c c                p p p p p p              y            y
 
-             c                                                        c                         p            p             y         y
+          c                                                        c                         p            p             y         y
 
-            c                                                        c                          p             p             y       y
+         c                                                        c                          p             p             y       y
 
-           c                   +               +                    c                           p            p                y   y
+        c                   +               +                    c                           p            p                y   y
 
-          c                    +               +                   c                            p p p p p p                     y          
+       c                    +               +                   c                            p p p p p p                     y          
 
-          c              + + + + + + +   + + + + + + +     &       c                    &       p                               y
+       c              + + + + + + +   + + + + + + +     &       c                    &       p                               y
 
-          c                    +               +                   c                            p                               y
+       c                    +               +                   c                            p                               y
                                 
-           c                   +               +                    c                           p                               y
+        c                   +               +                    c                           p                               y
   
-            c                                                        c                          p                               y
+         c                                                        c                          p                               y
 
-             c                                                        c                         p                               y
+          c                                                        c                         p                               y
 
-              c c c c c                                                 c c c c c               p                               y 
+           c c c c c                                                 c c c c c               p                               y 
               
 
