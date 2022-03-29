@@ -1,4 +1,5 @@
 - 👋 Hi, I am Felix Xing
+- 👋 你好，我是Felix Xing
 - Ughhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 - Yeahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 - Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
